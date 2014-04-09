@@ -4,9 +4,7 @@
 ### This a plan to deploy your project from a local git directory to a git directory on your server ###
 
 
-*This Plan assumes that you already have git core installed on your server, and oh-my-zsh plugin for terminal*
-
-    $ git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
+*This plan assumes that you already have git core installed on your server*
     
     $ apt-get install git-core
 

@@ -1,10 +1,6 @@
 ## DWP Deployment Plan ##
 
 This plan will cover deployment from a local enviornment, to a staging enviornment, to a production enviornment.
-
-*This Plan assumes that you already have oh-my-zsh plugin for for your local development enviorment.*
-
-    $ git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
     
     
 
